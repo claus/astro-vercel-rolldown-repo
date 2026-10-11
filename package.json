@@ -10,7 +10,7 @@
     "build": "astro build"
   },
   "dependencies": {
-    "@astrojs/vercel": "https://pkg.pr.new/@astrojs/vercel@f6b984d",
+    "@astrojs/vercel": "https://pkg.pr.new/@astrojs/vercel@35a684c",
     "astro": "7.3.8"
   },
   "allowScripts": {
